@@ -1,3 +1,9 @@
+# Spotify Project is a project developed by Hashtag Treinamentos, a Brazilian company with a YouTube channel to improve Full-Stack techniques where students recreate a Spotify page with HTML, JavaScript, Node.js, React, MongoDB, CSS, Vite among other technologies.
+
+I'm using these classes to study and improve my skills with the proposed technologies and recreate the Spotify page. It's still under construction, but I'll be updating it here with each step taken.
+
+I am using the Vite tool to build the page.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
